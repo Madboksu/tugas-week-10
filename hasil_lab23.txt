@@ -1,0 +1,78 @@
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 13819.44it/s]
+[pedoman_500] pedoman.pdf → 516 chunk
+[pedoman_1000] pedoman.pdf → 258 chunk
+
+============================================================
+LAB 2 - langkah 2: 5 pertanyaan biasa (koleksi 1000)
+============================================================
+
+Q: Berapa SKS minimal untuk gelar Sarjana Teknik?
+  [chunk 80] jarak=0.330
+     uaian dengan ketercapaian kompetensi lulusan akan ditetapkan berdasarkan topik penelitian, kriteria mahasiswa riset dan/atau proposal/rancangan kegiatan yang dapat mewakili bidang keahlian. Adapun rin ...
+  [chunk 73] jarak=0.336
+     m kegiatan magang/penelitian. 4. Menempuh ≥ 144 sks dengan struktur sebagai berikut: a. Minimal 84 SKS di PS Informatika UKWMS b. Mengambil 20 SKS (dalam 1 semester) pada PS lain di UKWMS dan atau men ...
+  [chunk 72] jarak=0.365
+     alternatif kegiatan pembelajaran yang dapat dipilih mahasiswa untuk menempuh perkuliahannya di PS Informatika Fakultas Teknik UKWMS antara lain sebagai berikut: 1. Menempuh ≥ 144 sks dengan mengikuti  ...
+
+Q: Apa syarat kelulusan tahap akhir?
+  [chunk 230] jarak=0.499
+      isi dengan gaya sesuai pedoman penulisan yang ditetapkan. Topik Bahasan : Rincian pokok/sub pokok bahasan untuk mencapai kompetensi dasar, sbb: Tugas Akhir dapat berupa penelitian literatur, peneliti ...
+  [chunk 66] jarak=0.522
+     perundangan (asuransi kesehatan, keselamatan kerja, honor magang, hak karyawan magang). 35 ▪ Supervisor mendampingi dan menilai kinerja mahasiswa selama magang, dan bersama dosen pembimbing memberikan ...
+  [chunk 80] jarak=0.545
+     uaian dengan ketercapaian kompetensi lulusan akan ditetapkan berdasarkan topik penelitian, kriteria mahasiswa riset dan/atau proposal/rancangan kegiatan yang dapat mewakili bidang keahlian. Adapun rin ...
+
+Q: Mata kuliah apa yang tidak boleh mendapat nilai D?
+  [chunk 75] jarak=0.440
+      alternatif A, B, C, dan D selama tidak melanggar aturan seperti diilustrasikan pada Tabel 3.4 tersebut, diantaranya: ▪ Perkuliahan di prodi lain atau PT lain dapat dilakukan mulai semester 3 sampai s ...
+  [chunk 62] jarak=0.497
+     ota peserta yang mengambil mata kuliah yang ditawarkan dalam bentuk pembelajaran dalam program studi yang sama pada perguruan tinggi lain. ▪ Mengatur jumlah mata kuliah yang dapat diambil dari program ...
+  [chunk 17] jarak=0.498
+     i Teknik Industri: 5 matakuliah - Program studi Informatika: 4 matakuliah Matakuliah yang tersebut berikut ini tidak diperkenankan mendapat nilai D: ▪ Pendidikan Agama ▪ Pendidikan Pancasila ▪ Etika S ...
+
+Q: Berapa SKS maksimal mata kuliah lintas program studi?
+  [chunk 76] jarak=0.249
+     n pertukaran pelajar mulai semester 3 dan harus tetap terdaftar sebagai mahasiswa aktif di PS Informatika. Jumlah sks yang dapat diambil pada luar Program Studi dalam 1 semester adalah 20 sks. Pengaku ...
+  [chunk 16] jarak=0.251
+     l matakuliah lintas program studi di lingkungan Fakultas Teknik atau lintas Fakultas di lingkungan Universitas Katolik Widya Mandala Surabaya sebagai matakuliah pilihan sebanyak maksimal 4 sks. ▪ Juml ...
+  [chunk 80] jarak=0.263
+     uaian dengan ketercapaian kompetensi lulusan akan ditetapkan berdasarkan topik penelitian, kriteria mahasiswa riset dan/atau proposal/rancangan kegiatan yang dapat mewakili bidang keahlian. Adapun rin ...
+
+Q: Apa fasilitas penunjang pendidikan di Program Studi Informatika?
+  [chunk 34] jarak=0.263
+     imulasikan aplikasi teknologi multi -platform yang relevan dengan kebutuhan industri. 12 5. SARANA PENUNJANG PENDIDIKAN Program studi Informatika Universitas Katolik Widya Mandala Surabaya mulai menye ...
+  [chunk 26] jarak=0.285
+     angan, bimbingan Assessment Tugas (di rumah/di kelas), presentasi, makalah ilmiah, keaktifan, ujian praktek, kemampuan kerja sama 9 4.3. Capaian Pembelajaran Dalam menghasilkan lulusan dengan profil y ...
+  [chunk 47] jarak=0.303
+     roleh gelar sarjana, mahasiswa harus menyelesaikan tugas akhir yang berupa Kerja Praktek dan Tugas Akhir/Skripsi. Program studi Informatika juga menerapkan Merdeka Belajar Kampus Merdeka (MBKM), mahas ...
+
+============================================================
+LAB 2 - langkah 3: 2 pertanyaan parafrase
+============================================================
+
+Q: Berapa banyak nilai jelek yang masih boleh dimiliki saat lulus?
+  [chunk 16] jarak=0.441
+     l matakuliah lintas program studi di lingkungan Fakultas Teknik atau lintas Fakultas di lingkungan Universitas Katolik Widya Mandala Surabaya sebagai matakuliah pilihan sebanyak maksimal 4 sks. ▪ Juml ...
+  [chunk 77] jarak=0.441
+     tan). Jadi 20 sks setara dengan 54.400 (lima puluh empat ribu empat ratus) menit kegiatan atau setara 907 jam kegiatan. Perhitungan terhadap capaian pembelajaran setara 20 sks ini dapat disetarakan da ...
+  [chunk 76] jarak=0.466
+     n pertukaran pelajar mulai semester 3 dan harus tetap terdaftar sebagai mahasiswa aktif di PS Informatika. Jumlah sks yang dapat diambil pada luar Program Studi dalam 1 semester adalah 20 sks. Pengaku ...
+
+Q: Bukti kemampuan bahasa Inggris apa yang diminta sebelum wisuda?
+  [chunk 84] jarak=0.508
+     Kode Mata Kuliah : ENG151/2 SKS Mata Kuliah Pra-/Ko-syarat : --- Deskripsi Mata Kuliah Mata kuliah ini berisi tentang teori-teori dasar yang diperlukan untuk memahami buku teks yang ditulis dalam Baha ...
+  [chunk 195] jarak=0.520
+      1992, “General Engineering”, UK, Prentice Hall 4. Mandel, Steve., 2000, “Effective Presentation Skills: A Practical Guide for Better Speaking”, Crisp Publication. 5. Mulvaney, Mary Kay A., 2004, “Aca ...
+  [chunk 186] jarak=0.538
+     an untuk mencapai kompetensi dasar yang telah ditentukan: 1. Ragam bahasa, ciri bahasa Indonesia, ciri ragam ilmiah. 2. Ejaan, tata kata, tata kalimat. 3. Istilah, definisi, silogisme. 4. Paragraf 5.  ...
+
+============================================================
+LAB 3 - Hit@k
+============================================================
+Ukuran | k | Hit@k | pertanyaan gagal (nomor)
+   500 | 1 | 0.27  | [2, 4, 6, 7, 8, 9, 11, 12, 13, 14, 15]
+   500 | 3 | 0.53  | [2, 6, 8, 9, 13, 14, 15]
+   500 | 5 | 0.73  | [6, 8, 9, 14]
+  1000 | 1 | 0.13  | [1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 13, 14, 15]
+  1000 | 3 | 0.40  | [1, 4, 5, 6, 8, 9, 11, 13, 14]
+  1000 | 5 | 0.40  | [1, 4, 5, 6, 8, 9, 11, 13, 14]
